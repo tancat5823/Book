@@ -1,0 +1,11 @@
+Title,Author,Genre,BookType,Pages,Duration_Minutes,Cost
+Clean Code,Robert Martin,Programming,Printed,464,null,232.00
+The Pragmatic Programmer,Andrew Hunt,Programming,Printed,352,null,176.00
+Atomic Habits,James Clear,Self-Help,Audio,null,320,80.00
+Deep Learning,Ian Goodfellow,AI,Printed,775,null,387.50
+Project Hail Mary,Andy Weir,Sci-Fi,Audio,null,960,240.00
+Thinking in Java,Bruce Eckel,Programming,Printed,1150,null,575.00
+The Psychology of Money,Morgan Housel,Finance,Audio,null,340,85.00
+Database System Concepts,Silberschatz,Databases,Printed,1376,null,688.00
+The Hobbit,J.R.R. Tolkien,Fantasy,Audio,null,680,170.00
+Design Patterns,Gamma et al.,Software Engineering,Printed,395,null,197.50
